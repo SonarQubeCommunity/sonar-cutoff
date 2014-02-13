@@ -42,9 +42,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:svn:http://svn.codehaus.org/sonar-plugins/trunk/cutoff</connection>
-    <developerConnection>scm:svn:https://svn.codehaus.org/sonar-plugins/trunk/cutoff</developerConnection>
-    <url>http://svn.sonar-plugins.codehaus.org</url>
+    <connection>scm:git:git@github.com:SonarSource/sonar-cutoff.git</connection>
+    <developerConnection>scm:git:git@github.com:SonarSource/sonar-cutoff.git</developerConnection>
+    <url>https://github.com/Sonarcommunity/sonar-cutoff</url>
   </scm>
 
   <issueManagement>
